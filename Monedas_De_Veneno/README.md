@@ -1,13 +1,13 @@
-Coin & Poison is a grid-based arcade game where players navigate a square character to collect coins while avoiding poison blocks.
+moneda & veneno es un juego arcade basado en cuadrícula en el que los jugadores navegan con un personaje cuadrado para recolectar monedas mientras evitan los bloques de veneno.
 
-**How It Works:**
+**Cómo funciona:**
 
-Players move in four directions using arrow keys.
-Collecting coins increases the score; colliding with poison ends the game.
-The game ends when all coins are collected or the player hits a poison block.
+Los jugadores se mueven en cuatro direcciones usando las teclas de flecha.
+Recoger monedas aumenta la puntuación; chocar con veneno termina la partida.
+La partida termina cuando se recogen todas las monedas o el jugador golpea un bloque de veneno.
 
-**Features:**
+**Características:**
 
-Randomly spawned coins and poison blocks.
-Real-time score tracking displayed on screen.
-Simple yet engaging gameplay focused on reflexes and strategy.
+Monedas y bloques de veneno generados aleatoriamente.
+Seguimiento de la puntuación en tiempo real en pantalla.
+Jugabilidad sencilla pero atractiva, centrada en los reflejos y la estrategia.
