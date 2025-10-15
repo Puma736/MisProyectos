@@ -1,0 +1,45 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Imaging.pngimage,
+  Vcl.Imaging.jpeg;
+
+type
+  TForm1 = class(TForm)
+    Image1: TImage;
+    Image2: TImage;
+    Image3: TImage;
+    Image4: TImage;
+    Image5: TImage;
+    Image6: TImage;
+    Timer1: TTimer;
+    Image7: TImage;
+  private
+    { Private declarations }
+    function colision(obj1,obj2:Timage):boolean;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  rotarhelice:integer = 1;
+  mousepresionado  :boolean = false;
+
+  distancia : integer = 0;
+  velocidadObstaculo : integer = 5;
+
+
+implementation
+
+{$R *.dfm}
+
+function TForm1.colision(obj1, obj2: Timage): boolean;
+begin
+
+end;
+
+end.

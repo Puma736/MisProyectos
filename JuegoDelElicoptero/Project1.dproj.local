@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/17 14:09:15.000.692,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/23 18:34:27.000.042,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 09:49:46.000.590,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 10:20:03.000.569,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LENOVO\Documents\juegoProyectoFinal\Unit1.dfm</Transaction>
+    <Transaction>2025/07/02 10:20:03.000.569,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\LENOVO\Documents\juegoProyectoFinal\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 10:20:07.000.900,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\LENOVO\Documents\juegoProyectoFinal\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
