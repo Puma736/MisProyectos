@@ -74,7 +74,7 @@ begin
    if button = mbleft then
    begin
       ImgHelicop.Top:= ImgHelicop.Top - 20;
-      mousePresionado:= true;
+      mousePresionado:= True;
    end;
 end;
 
