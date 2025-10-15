@@ -22,8 +22,8 @@ python pass_mng.py
 ```
 
 
-## 📺 Demo
+## 📺 Demostración
 
 ## 🤖 Author
-[Dhruv Vyas](https://github.com/Puma736)
+[Fabio Puma](https://github.com/Puma736)
 
