@@ -2,17 +2,16 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# PASSWORD MANAGER
+# ADMINISTRADOR DE CONTRASEÑAS
 
-## 🛠️ Description
-A password manager program that lets you store all youyr passwords for websites, with username and choice of password. You'll be getting editable option, you can add and remove passowrds of your choice to free up space. These passwords will be encrypted in CSV file. No need to worry! When you would want to see the password again this program will decrypt the file for you.
+## 🛠️ Descripción
+Un programa de gestión de contraseñas que te permite almacenar todas tus contraseñas de sitios web, con nombre de usuario y contraseña. Tendrás opciones editables: puedes agregar y eliminar las contraseñas que prefieras para liberar espacio. Estas contraseñas se cifrarán en un archivo CSV. ¡No te preocupes! Cuando quieras volver a ver la contraseña, este programa la descifrará automáticamente.
 
-## ⚙️ Languages or Frameworks Used
-This project is created using python programming language.
-Modules : CSV, cryptography
+## ⚙️ Lenguajes o frameworks utilizados
+Este proyecto se creó con el lenguaje de programación Python. Módulos: CSV, criptografía.
 
-## 🌟 How to run
-Running the script is really simple! Just open a terminal in the folder where your script is located and run the following commands: pip install cryptography
+## 🌟 Cómo correr
+¡Ejecutar el script es muy sencillo! Simplemente abre una terminal en la carpeta donde se encuentra el script y ejecuta los siguientes comandos: pip install cryptography
 
 ```sh
 pip install cryptography
@@ -23,8 +22,8 @@ python pass_mng.py
 ```
 
 
-## 📺 Demo
+## 📺 Demostración
 
 ## 🤖 Author
-[Dhruv Vyas](https://github.com/dhruvvyas951)
+[Fabio Puma](https://github.com/Puma736)
 
